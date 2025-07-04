@@ -49,6 +49,7 @@ namespace odev_proje
             Form1 fm = new Form1();
             this.Hide();
             fm.Show();
+
         }
 
         private void uC_Welcome1_Load(object sender, EventArgs e)
